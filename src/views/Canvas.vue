@@ -78,7 +78,7 @@ export default {
             }
 
 
-            
+            //МИША ТЫ ДАУН
 
 
             this.lineCoords = [];
